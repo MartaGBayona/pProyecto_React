@@ -1,0 +1,10 @@
+.headerDesign {
+    height: 8vh;
+    width: 100vw;
+
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+}
